@@ -1,0 +1,4 @@
+chengine:
+  telegram:
+    token: #put_yours_bot_token_here
+    username: #put_yours_bot_username_here
